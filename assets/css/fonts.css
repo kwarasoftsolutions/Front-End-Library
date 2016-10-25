@@ -1,0 +1,110 @@
+﻿@font-face {
+	font-family: 'Avenir Next Heavy';
+	src: url('../fonts/avenirnext_heavy.woff') format('woff');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir Next Ultra Light';
+	src: url('../fonts/avenirnext_ultralight.woff') format('woff');
+	font-weight: 200;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir Next Bold';
+	src: url('../fonts/avenirnext_bold.woff') format('woff');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir Next Demi Bold';
+	src: url('../fonts/avenirnext_demibold.woff') format('woff');
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir Next Medium';
+	src: url('../fonts/avenirnext_medium.woff') format('woff');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir Next Regular';
+	src: url('../fonts/avenirnext_regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Avenir Black';
+	src: url('../fonts/avenir_black.woff') format('woff');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir Book';
+	src: url('../fonts/avenir_book.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir Medium';
+	src: url('../fonts/avenir_medium.woff') format('woff');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir Heavy';
+	src: url('../fonts/avenir_heavy.woff') format('woff');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir Light';
+	src: url('../fonts/avenir_light.woff') format('woff');
+	font-weight: 300;
+	font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Proxima Nova Black';
+    src: url('../fonts/proxima_nova_black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Proxima Nova Bold';
+    src: url('../fonts/proxima_nova_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Proxima Nova Light';
+    src: url('../fonts/proxima_nova_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Proxima Nova Regular';
+    src: url('../fonts/proxima_nova_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
